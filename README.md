@@ -20,3 +20,6 @@ I learned that Git tracks changes in files over time. GitHub is an online platfo
 ## Tools Used
 - GitHub website
 - Web browser
+
+## Branch Practice
+I created the assignment-notes branch to practise isolated changes.
